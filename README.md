@@ -13,5 +13,6 @@ The App needs Internet Connection.
 
 ## Some of the Screenshots of the Application is below:
 
-![Alt text](images/weather.png?raw=true "Title")
+![fig 1](weather.png)
+![fig 2](weather2.png)
 
